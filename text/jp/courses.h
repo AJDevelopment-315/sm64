@@ -68,6 +68,7 @@ SECRET_STAR(COURSE_VCUTM,    _("　　　おほりのとうめいスイッチ"))
 SECRET_STAR(COURSE_WMOTR,    _("　　　にじ　かける　はねマリオ"))
 SECRET_STAR(COURSE_SA,       _("　　　おさかなと　いっしょ"))
 SECRET_STAR(COURSE_CAKE_END, _("　　　おいしいケーキ"))
+SECRET_STAR(COURSE_LCOD,     _("     ルイージの運命の檻"))
 
 CASTLE_SECRET_STARS(_("　　　おしろのかくれスター"))
 
